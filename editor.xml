@@ -4,5 +4,5 @@
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_CAMEL_WORDS" value="true" />
   </component>
-  <component name="LiveEditOptions" updatePolicy="AUTO" />
+  <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeUpdateOnChanges="true" />
 </application>
