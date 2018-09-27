@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="38904595-235f-4aea-ab2d-e85921a3c0bc" name="dispatcher" url="http://10.10.4.10:3000">
+        <fileTransfer host="10.10.4.10" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/minglo/gzavfair/dispatcher" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
